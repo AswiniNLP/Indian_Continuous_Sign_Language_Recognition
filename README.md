@@ -1,1 +1,1 @@
-# Indian_Sign_Language_Recognition
+# Indian_Continuous_Sign_Language_Recognition
