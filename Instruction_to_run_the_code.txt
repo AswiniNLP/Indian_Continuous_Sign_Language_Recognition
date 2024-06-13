@@ -1,0 +1,6 @@
+1) Install Openhands library.
+2) Pip freeze.
+3) Put the the inference file in the api folder.
+4) Put the the train and test pkl files in the api folder, these are the files where we have extracted the keypoints from the video frames.
+5) The inference.py folder is having the CTC loss implementation on the top of Seq-2-Seq models.
+6) A demo of YAML file has been attached in the repository.
